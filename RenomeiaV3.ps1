@@ -1,5 +1,5 @@
 # $Path: Pasta pai
-$path = "C:\Pentaho\Projeto\renomeia.sh"
+$path = "path"
 
 $pathLog = "$path\RenomearV3_log.txt"
 Clear-Content -Path $pathLog
